@@ -3,7 +3,7 @@ import serverPic from './images/serverCat.jpg';
 
 
 export const initAbout = () =>{
-    const desc1 = 'Sebastian is a barista with more than 12 years of of experience and best in industry skills. You won\'t find coffee made better by someone other than him.'
+    const desc1 = 'Sebastian is a barista with more than 10 years of experience and one of the best skills in industry. You\'ll rarely find drinks made better than he does.'
     const desc2 = 'Although Laura worked with us not that long, she receives best best customer ratings from the start. The most cheerful and attentive server you could ever imagine. Don\'t forget to request a smile!'
     
     const about = document.getElementById('about-page');
